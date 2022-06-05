@@ -1489,7 +1489,7 @@
     consola "^2.15.3"
     google-fonts-helper "^1.2.0"
 
-"@nuxtjs/tailwindcss@^5.0.4":
+"@nuxtjs/tailwindcss@^5.1.2":
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-5.1.2.tgz#4137812ea70ab9067817803124a1606cf851a2e4"
   integrity sha512-GURUcEyAE6hsOWbLNGOiu832HX53ff2yrbfFJ7qqkFXnq0RNeaoOip+z5MX2mLcmyxlDtFjNmu2rw2rfCTsvHA==

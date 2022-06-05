@@ -31,7 +31,22 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/eslint-module',
+    '@nuxtjs/google-fonts'
   ],
+
+  googleFonts: {
+    families: {
+      Neonderthaw: true,
+      'EB Garamond': true,
+      'Fredoka One': true,
+      VT323: true,
+      'Inria Sans': true,
+      Kanit: true,
+      'Do Hyeon': true,
+      'DM Sans': true
+    }
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -39,5 +54,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+
+  devServerHandlers: []
 }
