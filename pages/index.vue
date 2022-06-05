@@ -1,8 +1,12 @@
 <template>
-  <div class="h-screen w-screen flex items-center justify-center">
+  <div class="flex justify-center items-center w-screen h-screen">
     <div>
-      <p class="text-center text-3xl">Build success!🎉🎉🎉</p>
-      <p class="text-center">To navigate to the particular page, please go localhost:3000/[vue file name]</p>
+      <p class="text-3xl text-center">
+        Build success!🎉🎉🎉
+      </p>
+      <p class="text-center">
+        To navigate to the particular page, please go localhost:3000/[vue file name]
+      </p>
     </div>
   </div>
 </template>
