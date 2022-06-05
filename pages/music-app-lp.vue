@@ -36,7 +36,7 @@
           <img width="150" src="~/static/music-app-landing-page/appstore.png" class="mr-1">
         </div>
       </div>
-      <div class="w-1/2">
+      <div class="w-1/2 flex items-center justify-center">
         <img src="~/static/music-app-landing-page/phone.png" width="400" class="m-8">
       </div>
     </div>
