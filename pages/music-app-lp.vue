@@ -28,12 +28,12 @@
         <h2 class="text-6xl">
           Music is <br>the universal language of mankind.
         </h2>
-        <p class="text-xs">
+        <p class="my-4 text-xs">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non feugiat justo. Sed pretium mauris sit amet aliquet cursus. Sed fringilla viverra scelerisque. Morbi in erat sodales, fermentum libero eu, tincidunt metus. Aenean nunc felis, tincidunt a faucibus egestas, efficitur et lorem. Praesent a arcu quam. Pellentesque quis vestibulum ante.
         </p>
-        <div class="flex items-center">
-          <img width="150" src="~/static/music-app-landing-page/playstore.png">
-          <img width="150" src="~/static/music-app-landing-page/appstore.png">
+        <div class="flex items-center my-4">
+          <img width="150" src="~/static/music-app-landing-page/playstore.png" class="mr-1">
+          <img width="150" src="~/static/music-app-landing-page/appstore.png" class="mr-1">
         </div>
       </div>
       <div class="w-1/2">
