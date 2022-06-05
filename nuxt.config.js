@@ -44,7 +44,9 @@ export default {
       'Inria Sans': true,
       Kanit: true,
       'Do Hyeon': true,
-      'DM Sans': true
+      'DM Sans': true,
+      'Plus Jakarta Sans': true,
+      'Red Hat Display': true
     }
   },
 

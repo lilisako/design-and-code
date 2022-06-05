@@ -1,5 +1,4 @@
 
-
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
@@ -13,7 +12,9 @@ module.exports = {
       inria: ['Inria Sans'],
       kanit: ['Kanit'],
       dohyeon: ['Do Hyeon'],
-      dmsans: ['DM Sans']
+      dmsans: ['DM Sans'],
+      jakarta: ['Plus Jakarta Sans'],
+      redhat: ['Red Hat Display']
     },
     extend: {
       fontFamily: {
